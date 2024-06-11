@@ -1,2 +1,2 @@
-<h1>  projeto que aprendi estuadando no Devclub
+<h1>  projeto que aprendi estudando no Devclub
 </h1>
